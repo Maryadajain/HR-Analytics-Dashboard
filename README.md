@@ -23,3 +23,4 @@ User-Friendly Navigation: Slicers and filters for department, gender, role, and 
 Ready for integration with real-time HR datasets
 
 # Screenshots
+https://github.com/Maryadajain/HR-Analytics-Dashboard/blob/main/HOME-%20Sheet-1.png
