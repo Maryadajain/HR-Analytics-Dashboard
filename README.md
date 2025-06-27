@@ -1,12 +1,16 @@
 # HR-Analytics-Dashboard
 I believe dashboards should tell a story — not just display numbers. This project reflects that mindset by combining logic (DAX), creativity (visuals), and empathy (user-focused design) to create a tool that's both informative and engaging.
 
+<a href = "https://github.com/Maryadajain/HR-Analytics-Dashboard/blob/main/HR-Dashboard.pbix">View</a>
+
 # Purpose
 A story-driven HR Dashboard built using Power BI that transforms raw employee data into interactive, insightful visuals. The goal is to help HR teams and business leaders monitor workforce trends, improve employee engagement, and make data-informed decisions with clarity and confidence.
 
 # Tech Stack
 Power BI - Data visualization and dashboard creation
+
 DAX -	Custom KPIs and logic implementation
+
 Power Query	- Data transformation and cleaning
 
 # Features / Highlights
